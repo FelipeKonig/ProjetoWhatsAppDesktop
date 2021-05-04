@@ -1,9 +1,5 @@
 # ProjetoWhatsAppDesktop
-Projeto desenvolvido em Java utilizando as bibliotecas:
-
-- JavaFX para criação das interfaces;
-- Banco de dados SQLite para armazenamento dos dados;
-- ORM Hibernate para o mapeamento objeto-relacional escrito em linguagem Java.
+Projeto desenvolvido em Java utilizando a biblioteca JavaFX para criação das interfaces; banco de dados SQLite para armazenamento dos dados, juntamente com ORM Hibernate para o mapeamento objeto-relacional escrito em linguagem Java.
 
 Algumas funcionalidades do projeto:
 
